@@ -1,0 +1,11 @@
+.waf-*
+.unittest-gtest
+.lock-waf*
+*.pyc
+*.pyo
+build/
+*~
+\#*
+*.bak
+doc/
+.waf3-*
